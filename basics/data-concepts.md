@@ -28,6 +28,9 @@ Pipelines are scheduled, monitored, and automated using tools like Apache Airflo
 Key Tools & Technologies
 
 • Languages: SQL, Python, Scala, Java
+
 • Big Data & Streaming: Apache Spark, Apache Kafka, Apache Flink
+
 • Orchestration: Apache Airflow, dbt
+
 • Cloud Platforms: AWS, Google Cloud Platform (GCP), Microsoft Azure
